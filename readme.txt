@@ -6,4 +6,5 @@ Git is free software.
 2
 3
 4
-git track changes
+git track changes of files
+My stupid boss still prefers SVN
